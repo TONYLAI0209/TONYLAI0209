@@ -1,6 +1,6 @@
 ## Data Analytics&Visualization - Tony Lai   |   数据分析&可视化 - 黎俊德
 Unlock the power of data and drive growth with analysis! 
-<br>热爱数据、热爱技术。实习经验三个。喜欢参与一些项目的讨论。
+<br>热爱数据热爱技术，实习经验三个，喜欢参与一些项目的讨论。
 
 
 ### **Social Media |  社交主页：**
