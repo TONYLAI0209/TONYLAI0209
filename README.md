@@ -1,7 +1,8 @@
-## Data Analyist - Tony Lai   |   数据分析师 - 黎俊德
+## Data Analytics&Visualization - Tony Lai   |   数据分析&可视化 - 黎俊德
 热爱数据、热爱技术。实习经验三个。喜欢参与一些项目的讨论。
+Unlock the power of data and drive growth with analysis!
 
-### **社交主页：**
+### **Social Media |  社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
