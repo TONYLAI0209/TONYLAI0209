@@ -4,6 +4,10 @@ Unlock the power of data and drive growth with analysis!
 
 
 ### **Social Media |  社交主页：**
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
+
+
 <a href="https://www.instagram.com/tonyy_laii/"><code><img height="50" src="./images/instagram_2111463.png"></code></a>
 <a href="https://www.instagram.com/tonyy_laii/"><code><img height="50" src="./images/facebook_174848.png"></code></a>
 <a href="http://www.linkedin.com/in/chun-tak-tony-lai-4b351a224/"><code><img height="50" src="./images/linkein-174857.png"></code></a>
