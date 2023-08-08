@@ -1,6 +1,4 @@
-## 数据分析师 - 黎俊德
-## Data Analyist - Tony Lai 
-
+## Data Analyist - Tony Lai   |   数据分析师 - 黎俊德
 热爱数据、热爱技术。实习经验三个。喜欢参与一些项目的讨论。
 
 ### **社交主页：**
