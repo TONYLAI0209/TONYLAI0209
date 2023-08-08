@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:TONYLAI0209?theme=rule34">
 
-## Data Analytics&Visualization - Tony Lai   |   数据分析&可视化 - 黎俊德
+<br>## Data Analytics&Visualization - Tony Lai   |   数据分析&可视化 - 黎俊德
 
 Unlock the power of data and drive growth with analysis! 
 <br>热爱数据热爱技术，实习经验三个，喜欢参与一些项目的讨论。
@@ -14,7 +14,7 @@ Unlock the power of data and drive growth with analysis!
 <a href="https://www.instagram.com/tonyy_laii/"><code><img height="50" src="./images/instagram_2111463.png"></code></a>
 <a href="https://www.instagram.com/tonyy_laii/"><code><img height="50" src="./images/facebook_174848.png"></code></a>
 <a href="http://www.linkedin.com/in/chun-tak-tony-lai-4b351a224/"><code><img height="50" src="./images/linkein-174857.png"></code></a>
-<a href="https://www.youtube.com/channel/UCZxww1nDEnKGc3CePW1JU1A/"><code><img height="50" src="./images/twitter_3536424.png"></code></a>
+<a href="https://www.youtube.com/channel/UCZxww1nDEnKGc3CePW1JU1A/"><code><img height="50" src="./images/youtube.png"></code></a>
 
 
 
