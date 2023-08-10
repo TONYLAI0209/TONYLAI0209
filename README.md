@@ -21,7 +21,6 @@ Unlock the power of data and drive growth with analysis!
 
 
 
-
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
@@ -40,6 +39,15 @@ Unlock the power of data and drive growth with analysis!
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
 <br><br><br>
 
+
+### Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TONYLAI0209/TONYLAI0209/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TONYLAI0209/TONYLAI0209/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TONYLAI0209/TONYLAI0209/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=TONYLAI0209&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -48,13 +56,6 @@ Unlock the power of data and drive growth with analysis!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TONYLAI0209&langs_count=3)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TONYLAI0209&layout=compact&langs_count=3)
 
-
-### Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TONYLAI0209/TONYLAI0209/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TONYLAI0209/TONYLAI0209/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TONYLAI0209/TONYLAI0209/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
