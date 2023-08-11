@@ -4,7 +4,8 @@
 Unlock the power of data and drive growth with analysis! 
 <br>热爱数据热爱技术，实习经验三个，喜欢参与一些项目的讨论。
 
-
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tony+Lai;+Welcome+to+My+Profile!;Always+learning+new+things+;Data+analysis+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
  
 ### **Social Media |  社交主页：**
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
@@ -15,10 +16,6 @@ Unlock the power of data and drive growth with analysis!
 <a href="https://www.instagram.com/tonyy_laii/"><code><img height="50" src="./images/facebook_174848.png"></code></a>
 <a href="http://www.linkedin.com/in/chun-tak-tony-lai-4b351a224/"><code><img height="50" src="./images/linkein-174857.png"></code></a>
 <a href="https://www.youtube.com/channel/UCZxww1nDEnKGc3CePW1JU1A/"><code><img height="50" src="./images/youtube.png"></code></a>
-
-
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tony+Lai;+Welcome+to+My+Profile!;Always+learning+new+things+;Data+analysis+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 
 ### **技术栈:**
