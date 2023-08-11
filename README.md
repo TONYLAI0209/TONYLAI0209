@@ -1,6 +1,4 @@
 ## Data Analytics&Visualization - Tony Lai   |   数据分析&可视化 - 黎俊德
----
-
 <img align="right" src="https://count.getloli.com/get/@:TONYLAI0209?theme=rule34">
 
 Unlock the power of data and drive growth with analysis! 
