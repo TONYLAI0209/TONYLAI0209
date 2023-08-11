@@ -4,8 +4,6 @@
 Unlock the power of data and drive growth with analysis! 
 <br>热爱数据热爱技术，实习经验三个，喜欢参与一些项目的讨论。
 
-<p align="center">
-
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tony+Lai;+Welcome+to+My+Profile!;Always+learning+new+things+;Data+analysis+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
