@@ -7,7 +7,7 @@ Unlock the power of data and drive growth with analysis!
 <br>对新鲜事物感兴趣，也从事音乐制作爱好，欢迎一起交流。
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tony+Lai;+Welcome+to+My+Profile!;Always+learning+new+things+;Data+analysis+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tony+Lai;+Welcome+to+My+Profile!;Always+learning+new+things+;Data+analysis+enthusiast+;Studying+at+University+of+Toronto)](https://git.io/typing-svg)
  
 ### **Social Media |  社交主页：**
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
