@@ -1,9 +1,7 @@
 
 
 ## Data Analytics&Visualization - Tony Lai   |   数据分析&可视化 - 黎俊德
-counting of visitors to this page in this section started from June 12, 2022
 <img align="right" src="https://count.getloli.com/get/@:TONYLAI0209?theme=rule34"> 
-</br>
 
 Unlock the power of data and drive growth with analysis! 
 <br>热爱数据热爱技术，实习经验三个，喜欢参与一些项目的讨论。
