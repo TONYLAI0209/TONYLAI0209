@@ -10,6 +10,7 @@ Unlock the power of data and drive growth with analysis!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tony+Lai;+Welcome+to+My+Profile!;Always+learning+new+things+;Data+analysis+enthusiast+;Studying+at+University+of+Toronto;+For+more+informations;+Please+follow+me+on+social+media+plateforms+below!;+Thank+You!)](https://git.io/typing-svg)
 
 ### **Social Media |  社交主页：**
+<br> Follow me here:
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
