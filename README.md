@@ -19,7 +19,7 @@ Unlock the power of data and drive growth with analysis!
 <a href="http://www.linkedin.com/in/chun-tak-tony-lai-4b351a224/"><code><img height="50" src="./images/linkein-174857.png"></code></a>
 <a href="https://www.youtube.com/channel/UCZxww1nDEnKGc3CePW1JU1A/"><code><img height="50" src="./images/youtube.png"></code></a>
 
-123
+ 
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
